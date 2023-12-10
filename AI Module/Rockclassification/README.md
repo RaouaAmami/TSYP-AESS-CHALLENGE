@@ -103,4 +103,4 @@ print ('modules loaded')
 
 ## 📝 Save Model
 
-**You can find the in models folder**
+**https://drive.google.com/file/d/1wl4VyCiR58PuN88MmOF6xGOwccenOHQ2/view?usp=sharing**
